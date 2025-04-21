@@ -4,7 +4,7 @@ import { Line } from "react-chartjs-2";
 import * as Chart from 'chart.js';
 import "chart.js/auto";
 
-const API_URL = "http://127.0.0.1:5000/api/sensor_data";
+const API_URL = "https://agriauthentic-python-dashboard-api.onrender.com/api/sensor_data";
 
 const standardRanges = {
   soil_moisture: { min: 30, max: 70 },
