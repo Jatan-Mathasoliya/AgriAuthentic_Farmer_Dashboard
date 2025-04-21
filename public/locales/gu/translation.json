@@ -1,0 +1,31 @@
+{
+  "dashboard": "ડેશબોર્ડ",
+  "Products": "ઉત્પાદનો",
+  "marketplace": "માર્કેટપ્લેસ",
+  "analytics": "વિશ્લેષણ",
+  "profile": "પ્રોફાઇલ",
+  "login": "લોગિન / સાઇનઅપ",
+  "logout": "લોગઆઉટ",
+  "products": {
+    "title": "ઉત્પાદનો અને ઓર્ડર મેનેજમેન્ટ",
+    "addProduct": "નવું ઉત્પાદન ઉમેરો",
+    "orders": "ઓર્ડર",
+    "productName": "ઉત્પાદનનું નામ",
+    "harvestedOn": "લણણીની તારીખ",
+    "price": "કિંમત",
+    "stock": "ઉપલબ્ધ સ્ટોક",
+    "harvestDate": "ફસલ તારીખ",
+    "description": "વર્ણન",
+    "productTags": "ઉત્પાદન ટૅગ્સ",
+    "certificates": "પ્રમાણપત્રો",
+    "cancel": "રદ કરો",
+    "add": "ઉમેરો",
+    "inStock": "સ્ટોકમાં",
+    "outOfStock": "સ્ટોક ખતમ",
+    "harvestInfo": "ફસલ માહિતી",
+    "noProducts": "કોઈ ઉત્પાદનો મળ્યા નથી",
+    "noDescription": "કોઈ વર્ણન ઉપલબ્ધ નથી",
+    "noTags": "કોઈ ટૅગ્સ ઉપલબ્ધ નથી",
+    "noCertificates": "કોઈ પ્રમાણપત્રો ઉપલબ્ધ નથી"
+  }
+}

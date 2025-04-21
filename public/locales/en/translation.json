@@ -1,0 +1,32 @@
+{
+  "brandName": "AgriAuthentic",
+  "dashboard": "Dashboard",
+  "Products": "Products",
+  "marketplace": "Marketplace",
+  "analytics": "Analytics",
+  "profile": "Profile",
+  "login": "Login / Signup",
+  "logout": "Logout",
+  "products": {
+    "title": "Products and Orders Management",
+    "addProduct": "Add New Product",
+    "orders": "Orders",
+    "productName": "Product Name",
+    "harvestedOn": "Harvested On",
+    "price": "Price",
+    "stock": "Stock Available",
+    "harvestDate": "Harvest Date",
+    "description": "Description",
+    "productTags": "Product Tags",
+    "certificates": "Certificates",
+    "cancel": "Cancel",
+    "add": "Add",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "harvestInfo": "Harvest Information",
+    "noProducts": "No Products Found",
+    "noDescription": "No description available",
+    "noTags": "No tags available",
+    "noCertificates": "No certificates available"
+  }
+}

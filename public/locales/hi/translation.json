@@ -1,0 +1,32 @@
+{
+  "brandName": "एग्रीऑथेंटिक",
+  "dashboard": "डैशबोर्ड",
+  "Products": "उत्पाद",
+  "marketplace": "मार्केटप्लेस",
+  "analytics": "एनालिटिक्स",
+  "profile": "प्रोफ़ाइल",
+  "login": "लॉगिन / साइनअप",
+  "logout": "लॉगआउट",
+  "products": {
+    "title": "उत्पाद और आदेश प्रबंधन",
+    "addProduct": "नया उत्पाद जोड़ें",
+    "orders": "आदेश",
+    "productName": "उत्पाद का नाम",
+    "harvestedOn": "कटाई की तारीख",
+    "price": "मूल्य",
+    "stock": "उपलब्ध स्टॉक",
+    "harvestDate": "फसल तिथि",
+    "description": "विवरण",
+    "productTags": "उत्पाद टैग",
+    "certificates": "प्रमाणपत्र",
+    "cancel": "रद्द करें",
+    "add": "जोड़ें",
+    "inStock": "स्टॉक में",
+    "outOfStock": "स्टॉक खत्म",
+    "harvestInfo": "फसल जानकारी",
+    "noProducts": "कोई उत्पाद नहीं मिला",
+    "noDescription": "कोई विवरण उपलब्ध नहीं है",
+    "noTags": "कोई टैग उपलब्ध नहीं है",
+    "noCertificates": "कोई प्रमाणपत्र उपलब्ध नहीं है"
+  }
+}
